@@ -1,0 +1,4 @@
+python3 base_stat.py -s ../test/SRR1039523_1.fq -o ./result
+
+python3 R2_base_stat_error.py -s ../test/SRR1039523_1.fq -o test.txt
+

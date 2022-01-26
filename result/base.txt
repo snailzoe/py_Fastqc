@@ -1,0 +1,8 @@
+       [0;37;44mMeasure[0m                          [0;37;44mValue[0m                  
+Total Sequences                     SRR1039523_1.fq
+File type                           Conventional base calls
+Encoding                            Sanger / Illumina 1.9
+Total Sequences                     1000
+Sequences flagged as poor quality   0
+Sequence length                     63
+%GC                                 49
